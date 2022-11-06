@@ -10,7 +10,7 @@ https://docs.google.com/spreadsheets/d/1iB9iQ7p68j7MldXvhn7xEjoj2ajJLXeJtPSKtjqX
 
 
 <p align="center">
-<img src="docs/dct-transformer.png" width="800px"/>
+<img src="docs/watermarking.png" width="800px"/>
 <br>
 The overall architecture of our DCT-Transformer watermarking
 </p>
