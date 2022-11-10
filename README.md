@@ -1,6 +1,4 @@
-# Distortion-Agnostic-watermarking-based-on-DCT-Based-Transformer
-Distortion Agnostic watermarking based on DCT-Based Transformer
-
+# Improving Deep Watermarking Robustness with an Ensemble of Expert Noisers
 ## Dataset
 
 Tiny COCO: https://drive.google.com/file/d/1Up-NoEUcfAlmdj2Rhg8fZrfdcyjGrTQ4/view?usp=sharing
