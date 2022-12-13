@@ -6,7 +6,7 @@ import torchvision.transforms as transforms
 class Sat(nn.Module):
     def __init__(self, ratio=15.0):
         super(Sat, self).__init__()
-        self.sat = transforms.ColorJitter(saturation=ratio)
+        self.sat = transforms.ColorJitter(saturation=[ratio, ratio])
 
     def forward(self, noised_and_cover):
         noised_and_cover[0] = (noised_and_cover[0] + 1.0) / 2.0
