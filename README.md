@@ -7,9 +7,9 @@ https://docs.google.com/spreadsheets/d/1iB9iQ7p68j7MldXvhn7xEjoj2ajJLXeJtPSKtjqX
 
 
 <p align="center">
-<img src="docs/watermarking.jpg" width="800px"/>
+<img src="docs/Watermarked_Overall.jpg" width="800px"/>
 <br>
-The overall architecture of our DCT-Transformer watermarking
+The overall architecture of our DCT-Transformer and Watermarking System
 </p>
 
 
