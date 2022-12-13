@@ -30,3 +30,9 @@ CUDA_VISIBLE_DEVICES=[rank of GPU] python -m torch.distributed.launch --nproc_pe
 
 ## Dataset
 COCO Dataset please refer to https://cocodataset.org/#home
+
+## Citation
+```
+https://github.com/ando-khachatryan/HiDDeN
+```
+
