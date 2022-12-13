@@ -8,7 +8,7 @@ class Hue(nn.Module):
     """
     def __init__(self, ratio=0.2):
         super(Hue, self).__init__()
-        self.hue = T.ColorJitter(hue=ratio)
+        self.hue = T.ColorJitter(hue=[ratio, ratio])
 
     def forward(self, noised_and_cover):
         noised_and_cover[0] = (noised_and_cover[0]+1.0)/ 2.0
